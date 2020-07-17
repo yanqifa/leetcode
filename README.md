@@ -5,10 +5,10 @@
 
 [5. Longest Palindromic Substring](./Problems/5.%20Longest%20Palindromic%20Substring.md)
 
-[11.Container With Most Water](./Problems/11.Container%20With%20Most%20Water.md)
+[11.Container With Most Water](./problems/11.Container%20With%20Most%20Water.md)
 
-[15. 3Sum](./Problems/15.%203Sum.md)
+[15. 3Sum](./problems/15.%203Sum.md)
 
-[22. Generate Parentheses](./Problems/22.%20Generate%20Parentheses.md)
+[22. Generate Parentheses](./problems/22.%20Generate%20Parentheses.md)
 
-[86. Partition List](./Problems/86.%20Partition%20List.md)
+[86. Partition List](./problems/86.%20Partition%20List.md)
