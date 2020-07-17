@@ -15,3 +15,7 @@
 [22. Generate Parentheses](./problems/22.%20Generate%20Parentheses.md)
 
 [86. Partition List](./problems/86.%20Partition%20List.md)
+
+[91. Decode Ways](./problems/91.%20Decode%20Ways.md)
+
+[98. Validate Binary Search Tree](98.%20Validate%20Binary%20Search%20Tree.md)
