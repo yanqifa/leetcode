@@ -4,6 +4,10 @@
 
 主要参考大佬的github（ https://github.com/azl397985856/leetcode#%E4%BC%A0%E9%80%81%E9%97%A8 ）
 
+剑指offer练习地址（ https://www.nowcoder.com/ta/coding-interviews ）
+
+[刷题总结](./summary.md)
+
 ## list
 
 [2. Add Two Numbers](./problems/2.%20Add%20Two%20Numbers.md)

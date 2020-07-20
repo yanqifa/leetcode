@@ -1,11 +1,12 @@
-import java.util.List;
+import java.util.*;
 
 class Solution {
-    List<List<Integer>> ans = new ArraryList<>();
+    List<List<Integer>> ans = new ArrayList<>();
     public List<List<Integer>> combinationSum(int[] candidates, int target) 
     {
         List<Integer> tempList = new ArrayList<>();
         backtrace(tempList, candidates, target, 0);
+        return ans;
     }
 
     private void backtrace(List<Integer> tempList, int[] candidates, int remain, int start)
