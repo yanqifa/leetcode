@@ -1,6 +1,6 @@
 import os
 
-def reverse_numeric(xstr, ystr):
+def compare(xstr, ystr):
     xstrlist = xstr.split('.')
     ystrlist = ystr.split('.')
     return int(xstrlist[0]) - int(ystrlist[0])
@@ -13,7 +13,7 @@ for file in files:
 
 print(problems)
 #1. sort problems
-problems=sorted(problems, cmp=reverse_numeric) 
+problems=sorted(problems, cmp=compare) 
 
 #2. gen index
 indexlist = []
@@ -23,9 +23,7 @@ for problem in problems:
     print(index + "\n")
     indexlist.append(index)
 
-#3 todo backup old index
-
-#4. replace old index
+#3. replace old index
 f = open("./README.md")
 iter_f = iter(f)
 content = ""
