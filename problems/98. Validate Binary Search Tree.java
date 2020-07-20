@@ -13,7 +13,7 @@ class Solution {
         if(root == null) return true;
         if(!isValidBST(root.left)) return false;
         if(preNode != null && preNode.val >= root.val) return false;
-        preNode == root;
+        preNode = root;
         if(!isValidBST(root.right)) return false;
         return true;
     }
