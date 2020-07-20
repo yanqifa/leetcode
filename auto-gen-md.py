@@ -27,7 +27,7 @@ for file in files:
             codeFilePath = "./problems/" + file[:-3] + ".java"
             f = open(codeFilePath)
             code = f.read()
-            content = u"# Template\n\n## 地址\n\n" + "## 描述\n\n" + "## 思路\n\n" + "## 代码\n\njava\n\n```java\n" + code + "```\n"
+            content = u"# Template\n\n## 地址\n\n" + "## 描述\n```\n\n```\n\n" + "## 思路\n\n" + "## 代码\n\njava\n\n```java\n" + code + "```\n"
             f = open(mdfilePath, "w")
             f.write(content.encode("utf-8"))
 
