@@ -1,5 +1,4 @@
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) 

@@ -18,8 +18,8 @@ Output:
   []
 ]
 */
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
+
 class Solution {
 
     //递归
@@ -53,7 +53,7 @@ class Solution {
             int size = subsets.size();
             for(int j = 0; j < size; j++)
             {
-                List<Integer> newSubset = new ArrayList<Integer>(subset.get(j));
+                List<Integer> newSubset = new ArrayList<Integer>(subsets.get(j));
                 newSubset.add(i);
                 subsets.add(newSubset);
             }
