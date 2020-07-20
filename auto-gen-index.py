@@ -11,7 +11,6 @@ for file in files:
     if file.endswith(".md"):
         problems.append(file)
 
-print(problems)
 #1. sort problems
 problems=sorted(problems, cmp=compare) 
 
@@ -36,6 +35,8 @@ content += "\n"
 
 for index in indexlist:
     content += index + "\n\n"
+
+content += "solved " + str(len(indexlist)) + " problems\n"    
 
 f = open("./README.md", "w")
 f.write(content)

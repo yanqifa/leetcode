@@ -74,17 +74,43 @@
 
 [105.construct-binary-tree-from-preorder-and-inorder-traversal](./problems/105.construct-binary-tree-from-preorder-and-inorder-traversal.md)
 
+[110. Balanced Binary Tree](./problems/110.%20Balanced%20Binary%20Tree.md)
+
 [112. Path Sum](./problems/112.%20Path%20Sum.md)
 
 [113. Path Sum II](./problems/113.%20Path%20Sum%20II.md)
+
+[116. Populating Next Right Pointers in Each Node](./problems/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
+
+[120. Triangle](./problems/120.%20Triangle.md)
 
 [121. Best Time to Buy and Sell Stock](./problems/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 
 [122. Best Time to Buy and Sell Stock II](./problems/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
 
+[124. Binary Tree Maximum Path Sum](./problems/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md)
+
+[128. Longest Consecutive Sequence](./problems/128.%20Longest%20Consecutive%20Sequence.md)
+
+[131. Palindrome Partitioning](./problems/131.%20Palindrome%20Partitioning.md)
+
+[134. Gas Station](./problems/134.%20Gas%20Station.md)
+
+[135. Candy](./problems/135.%20Candy.md)
+
 [136. Single Number](./problems/136.%20Single%20Number.md)
 
+[139. Word Break](./problems/139.%20Word%20Break.md)
+
+[143. Reorder List](./problems/143.%20Reorder%20List.md)
+
+[146. LRU Cache](./problems/146.%20LRU%20Cache.md)
+
+[147. Insertion Sort List](./problems/147.%20Insertion%20Sort%20List.md)
+
 [148. Sort List](./problems/148.%20Sort%20List.md)
+
+[149. Max Points on a Line](./problems/149.%20Max%20Points%20on%20a%20Line.md)
 
 [203. Remove Linked List Elements](./problems/203.%20Remove%20Linked%20List%20Elements.md)
 
@@ -92,3 +118,4 @@
 
 [1143. Longest Common Subsequence](./problems/1143.%20Longest%20Common%20Subsequence.md)
 
+solved 56 problems
