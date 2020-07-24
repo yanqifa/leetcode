@@ -1,3 +1,9 @@
+# 32 - III. 从上到下打印二叉树 III
+
+## 地址
+
+https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof
+
 ## 描述
 
 请实现一个函数按照之字形打印二叉树，即第一行按照从左到右的顺序打印，第二层按照从右至左的顺序打印，第三行按照从左到右的顺序打印，其他行以此类推。
@@ -10,24 +16,18 @@
 ## 代码
 
 ```java
-import java.util.*;
-
-/*
-public class TreeNode {
-    int val = 0;
-    TreeNode left = null;
-    TreeNode right = null;
-
-    public TreeNode(int val) {
-        this.val = val;
-
-    }
-
-}
-*/
-public class Solution {
-    public ArrayList<ArrayList<Integer> > Print(TreeNode pRoot) {
-        ArrayList<ArrayList<Integer>> ans = new ArrayList<>();
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public List<List<Integer>> levelOrder(TreeNode pRoot) {
+    List<List<Integer>> ans = new ArrayList<>();
         if(pRoot == null) return ans;
         LinkedList<TreeNode> queue = new LinkedList<>();
         queue.add(pRoot);
@@ -57,4 +57,5 @@ public class Solution {
         }
         return ans;
     }
+}
 ```
