@@ -1,3 +1,4 @@
+
 class Solution {
     public int findRepeatNumber(int[] nums) {
         int n = nums.length;

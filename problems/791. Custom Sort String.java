@@ -10,7 +10,7 @@ class Solution {
         }
     }
     public String customSortString(String S, String T) {
-        Map map = new HashMap<Character, Integer>();
+        Map<Character, Integer> map = new HashMap<>();
         int i = 1;
         for(char c : S.toCharArray()){
             map.put(c, i++);
