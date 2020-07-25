@@ -6,7 +6,7 @@
 
 剑指offer练习地址（ https://leetcode-cn.com/problemset/lcof/ ）
 
-[剑指offer总结](./coding-interviews-summary)
+[剑指offer总结](./coding-interviews-summary.md)
 
 [刷题总结](./summary.md)
 
