@@ -4,7 +4,9 @@
 
 主要参考大佬的github（ https://github.com/azl397985856/leetcode#%E4%BC%A0%E9%80%81%E9%97%A8 ）
 
-剑指offer练习地址（ https://www.nowcoder.com/ta/coding-interviews ）
+剑指offer练习地址（ https://leetcode-cn.com/problemset/lcof/ ）
+
+[剑指offer总结](./coding-interviews-summary)
 
 [刷题总结](./summary.md)
 
