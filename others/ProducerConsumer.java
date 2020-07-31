@@ -1,4 +1,3 @@
-package com.example;
 import java.util.*;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
