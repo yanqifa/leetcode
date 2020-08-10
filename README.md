@@ -4,6 +4,8 @@
 
 主要参考大佬的github（ https://github.com/azl397985856/leetcode#%E4%BC%A0%E9%80%81%E9%97%A8 ）
 
+目标 前200题 + 剑指offer
+
 剑指offer练习地址（ https://leetcode-cn.com/problemset/lcof/ ）
 
 [剑指offer总结](./coding-interviews-summary.md)
@@ -31,6 +33,8 @@
 [21. Merge Two Sorted Lists](./problems/21.%20Merge%20Two%20Sorted%20Lists.md)
 
 [22. Generate Parentheses](./problems/22.%20Generate%20Parentheses.md)
+
+[27. Remove Element](./problems/27.%20Remove%20Element.md)
 
 [33. Search in Rotated Sorted Array](./problems/33.%20Search%20in%20Rotated%20Sorted%20Array.md)
 
@@ -77,6 +81,8 @@
 [97. Interleaving String](./problems/97.%20Interleaving%20String.md)
 
 [98. Validate Binary Search Tree](./problems/98.%20Validate%20Binary%20Search%20Tree.md)
+
+[101. Symmetric Tree](./problems/101.%20Symmetric%20Tree.md)
 
 [104. Maximum Depth of Binary Tree](./problems/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
 
@@ -132,4 +138,4 @@
 
 [1143. Longest Common Subsequence](./problems/1143.%20Longest%20Common%20Subsequence.md)
 
-solved 60 problems
+solved 62 problems
