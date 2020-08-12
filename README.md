@@ -14,6 +14,8 @@
 
 ## list
 
+[1. Two Sum](./problems/1.%20Two%20Sum.md)
+
 [2. Add Two Numbers](./problems/2.%20Add%20Two%20Numbers.md)
 
 [3. Longest Substring Without Repeating Characters](./problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
@@ -21,6 +23,10 @@
 [4. Median of Two Sorted Arrays](./problems/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
 
 [5. Longest Palindromic Substring](./problems/5.%20Longest%20Palindromic%20Substring.md)
+
+[6. ZigZag Conversion](./problems/6.%20ZigZag%20Conversion.md)
+
+[10. Regular Expression Matching](./problems/10.%20Regular%20Expression%20Matching.md)
 
 [11.Container With Most Water](./problems/11.Container%20With%20Most%20Water.md)
 
@@ -57,6 +63,8 @@
 [56. Merge Intervals](./problems/56.%20Merge%20Intervals.md)
 
 [62. Unique Paths](./problems/62.%20Unique%20Paths.md)
+
+[62. Unique Paths(optimize)](./problems/62.%20Unique%20Paths(optimize).md)
 
 [73. Set Matrix Zeroes](./problems/73.%20Set%20Matrix%20Zeroes.md)
 
@@ -106,6 +114,8 @@
 
 [128. Longest Consecutive Sequence](./problems/128.%20Longest%20Consecutive%20Sequence.md)
 
+[130. Surrounded Regions](./problems/130.%20Surrounded%20Regions.md)
+
 [131. Palindrome Partitioning](./problems/131.%20Palindrome%20Partitioning.md)
 
 [134. Gas Station](./problems/134.%20Gas%20Station.md)
@@ -138,4 +148,4 @@
 
 [1143. Longest Common Subsequence](./problems/1143.%20Longest%20Common%20Subsequence.md)
 
-solved 62 problems
+solved 67 problems
